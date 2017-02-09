@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/majid/workspace/android/STARI Framework/STARI/build/intermediates/exploded-aar/STARI Framework/aRBaseLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44b025e216f91da596373dc8e6ade4a694e550b8">
+        <dex dex="/home/majid/workspace/android/STARI Framework/STARI/build/intermediates/pre-dexed/debug/classes-9389f8dcacaf385e0a12a99f20cf86899bf817f5.jar" />
+    </item>
+
+</items>
